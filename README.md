@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data science from Russia</h3>
+<h3 align="center">Data scientist </h3>
 <p> 
-    - Hi, I’m Dmitriy @DAYa66
+    - I’m Dmitriy @DAYa66
     <br>
     - I’m interested in Python3, R, Machine Learning, Deep Learning, Computer Vision, NLP
     <br>
