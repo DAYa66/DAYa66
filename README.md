@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Dmitriy</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data science from Russia</h3>
+<p> 
+    - Hi, I’m Dmitriy @DAYa66
+    <br>
+    - I’m interested in Python3, R, Machine Learning, Deep Learning, Computer Vision, NLP
+    <br>
+    - How to reach me via e-mail: 3445030@gmail.com via telegram: @day_ds
+<p>
 
 <!--
 **DAYa66/DAYa66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
