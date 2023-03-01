@@ -6,7 +6,7 @@
     <br>
     - I’m interested in Python3, R, Machine Learning, Deep Learning, Computer Vision, NLP
     <br>
-    - How to reach me via e-mail: 3445030@gmail.com via telegram: @day_ds
+    - How to reach me via e-mail: 3445030@gmail.com
 <p>
 
 <!--
